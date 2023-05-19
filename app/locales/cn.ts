@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "您还未获得权限，请您添加微信号：ellicoo 获取权限，填入OpenAI API Key中。",
+      "您还未获得权限，请您添加微信号：ellicoo 获取权限！",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
